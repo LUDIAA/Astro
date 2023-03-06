@@ -1,0 +1,154 @@
+*******************************************************************************
+JPL/HORIZONS                 NEOWISE (C/2020 F3)           2023-Mar-06 10:46:08
+Rec #:90004529 (+COV) Soln.date: 2021-Oct-06_18:57:33   # obs: 1313 (2020-2021)
+ 
+IAU76/J2000 helio. ecliptic osc. elements (au, days, deg., period=Julian yrs):
+ 
+  EPOCH=  2459037.5 ! 2020-Jul-07.0000000 (TDB)    RMSW= n.a.
+   EC= .9991780264791564   QR= .294651243326241    TP= 2459034.178897087
+   OM= 61.01042698860387   W= 37.27866088872548    IN= 128.9375018624312
+   A= 358.4680477588249    MA= .000482292747736603 ADIST= 716.6414442743235
+   PER= 6787.0942206673    N= .000145221           ANGMOM= .013202656
+   DAN= .32816             DDN= 2.8741             L= 35.4440771
+   B= 28.1074559           MOID= .362515           TP= 2020-Jul-03.6788970870
+ 
+Comet physical (GM= km^3/s^2; RAD= km):
+   GM= n.a.                RAD= n.a.
+   M1=  12.1     M2=  n.a.     k1=  12.    k2= n.a.     PHCOF= n.a.
+ 
+COMET comments 
+1: soln ref.= JPL#29, data arc: 2020-03-27 to 2021-06-08
+2: k1=12.;
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Mon Mar  6 10:46:08 2023 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: NEOWISE (C/2020 F3)             {source: JPL#29}
+Center body name: Solar System Barycenter (0)     {source: DE441}
+Center-site name: BODY CENTER
+*******************************************************************************
+Start time      : A.D. 2023-Jan-01 00:00:00.0000 TDB
+Stop  time      : A.D. 2023-Feb-01 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+*******************************************************************************
+Center geodetic : 0.0, 0.0, 0.0                   {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.0, 0.0, 0.0                   {E-lon(deg),Dxy(km),Dz(km)}
+Center radii    : (undefined)
+Small perturbers: Yes                             {source: SB441-N16}
+Output units    : KM-S
+Calendar mode   : Mixed Julian/Gregorian
+Output type     : GEOMETRIC cartesian states
+Output format   : 1 (position only)
+Reference frame : Ecliptic of J2000.0
+*******************************************************************************
+Initial IAU76/J2000 heliocentric ecliptic osculating elements (au, days, deg.):
+  EPOCH=  2459037.5 ! 2020-Jul-07.0000000 (TDB)    RMSW= n.a.                  
+   EC= .9991780264791564   QR= .294651243326241    TP= 2459034.178897087       
+   OM= 61.01042698860387   W= 37.27866088872548    IN= 128.9375018624312       
+  Equivalent ICRF heliocentric cartesian coordinates (au, au/d):
+   X= 2.197458581617445E-01  Y=-6.124344485292474E-02  Z= 2.138579085647453E-01
+  VX=-1.437281697314809E-03 VY=-4.325251281856881E-02 VZ= 4.361682136435718E-03
+Comet physical (GM= km^3/s^2; RAD= km):                                        
+   GM= n.a.                RAD= n.a.                                           
+   M1=  12.1     M2=  n.a.     k1=  12.    k2= n.a.     PHCOF= n.a.            
+*******************************************************************************
+            JDTDB,            Calendar Date (TDB),                      X,                      Y,                      Z,
+**************************************************************************************************************************
+$$SOE
+2459945.500000000, A.D. 2023-Jan-01 00:00:00.0000, -9.442034687268592E+08, -1.110959465954417E+09, -3.540688440576690E+08,
+2459946.500000000, A.D. 2023-Jan-02 00:00:00.0000, -9.449846188670658E+08, -1.111683542649568E+09, -3.544801642762340E+08,
+2459947.500000000, A.D. 2023-Jan-03 00:00:00.0000, -9.457654921546658E+08, -1.112407293313228E+09, -3.548913805268134E+08,
+2459948.500000000, A.D. 2023-Jan-04 00:00:00.0000, -9.465460889819598E+08, -1.113130718465001E+09, -3.553024929222226E+08,
+2459949.500000000, A.D. 2023-Jan-05 00:00:00.0000, -9.473264097402706E+08, -1.113853818623079E+09, -3.557135015750648E+08,
+2459950.500000000, A.D. 2023-Jan-06 00:00:00.0000, -9.481064548199472E+08, -1.114576594304254E+09, -3.561244065977315E+08,
+2459951.500000000, A.D. 2023-Jan-07 00:00:00.0000, -9.488862246103678E+08, -1.115299046023916E+09, -3.565352081024026E+08,
+2459952.500000000, A.D. 2023-Jan-08 00:00:00.0000, -9.496657194999428E+08, -1.116021174296064E+09, -3.569459062010469E+08,
+2459953.500000000, A.D. 2023-Jan-09 00:00:00.0000, -9.504449398761196E+08, -1.116742979633310E+09, -3.573565010054240E+08,
+2459954.500000000, A.D. 2023-Jan-10 00:00:00.0000, -9.512238861253846E+08, -1.117464462546880E+09, -3.577669926270828E+08,
+2459955.500000000, A.D. 2023-Jan-11 00:00:00.0000, -9.520025586332670E+08, -1.118185623546628E+09, -3.581773811773633E+08,
+2459956.500000000, A.D. 2023-Jan-12 00:00:00.0000, -9.527809577843431E+08, -1.118906463141030E+09, -3.585876667673972E+08,
+2459957.500000000, A.D. 2023-Jan-13 00:00:00.0000, -9.535590839622387E+08, -1.119626981837201E+09, -3.589978495081075E+08,
+2459958.500000000, A.D. 2023-Jan-14 00:00:00.0000, -9.543369375496320E+08, -1.120347180140890E+09, -3.594079295102101E+08,
+2459959.500000000, A.D. 2023-Jan-15 00:00:00.0000, -9.551145189282585E+08, -1.121067058556490E+09, -3.598179068842136E+08,
+2459960.500000000, A.D. 2023-Jan-16 00:00:00.0000, -9.558918284789134E+08, -1.121786617587046E+09, -3.602277817404199E+08,
+2459961.500000000, A.D. 2023-Jan-17 00:00:00.0000, -9.566688665814545E+08, -1.122505857734252E+09, -3.606375541889250E+08,
+2459962.500000000, A.D. 2023-Jan-18 00:00:00.0000, -9.574456336148064E+08, -1.123224779498466E+09, -3.610472243396199E+08,
+2459963.500000000, A.D. 2023-Jan-19 00:00:00.0000, -9.582221299569629E+08, -1.123943383378704E+09, -3.614567923021900E+08,
+2459964.500000000, A.D. 2023-Jan-20 00:00:00.0000, -9.589983559849918E+08, -1.124661669872656E+09, -3.618662581861163E+08,
+2459965.500000000, A.D. 2023-Jan-21 00:00:00.0000, -9.597743120750358E+08, -1.125379639476683E+09, -3.622756221006762E+08,
+2459966.500000000, A.D. 2023-Jan-22 00:00:00.0000, -9.605499986023175E+08, -1.126097292685825E+09, -3.626848841549438E+08,
+2459967.500000000, A.D. 2023-Jan-23 00:00:00.0000, -9.613254159411427E+08, -1.126814629993808E+09, -3.630940444577894E+08,
+2459968.500000000, A.D. 2023-Jan-24 00:00:00.0000, -9.621005644649022E+08, -1.127531651893044E+09, -3.635031031178818E+08,
+2459969.500000000, A.D. 2023-Jan-25 00:00:00.0000, -9.628754445460761E+08, -1.128248358874639E+09, -3.639120602436876E+08,
+2459970.500000000, A.D. 2023-Jan-26 00:00:00.0000, -9.636500565562373E+08, -1.128964751428400E+09, -3.643209159434723E+08,
+2459971.500000000, A.D. 2023-Jan-27 00:00:00.0000, -9.644244008660535E+08, -1.129680830042836E+09, -3.647296703253001E+08,
+2459972.500000000, A.D. 2023-Jan-28 00:00:00.0000, -9.651984778452910E+08, -1.130396595205162E+09, -3.651383234970350E+08,
+2459973.500000000, A.D. 2023-Jan-29 00:00:00.0000, -9.659722878628180E+08, -1.131112047401309E+09, -3.655468755663416E+08,
+2459974.500000000, A.D. 2023-Jan-30 00:00:00.0000, -9.667458312866075E+08, -1.131827187115926E+09, -3.659553266406846E+08,
+2459975.500000000, A.D. 2023-Jan-31 00:00:00.0000, -9.675191084837401E+08, -1.132542014832381E+09, -3.663636768273298E+08,
+2459976.500000000, A.D. 2023-Feb-01 00:00:00.0000, -9.682921198204076E+08, -1.133256531032773E+09, -3.667719262333452E+08,
+$$EOE
+**************************************************************************************************************************
+ 
+TIME
+
+  Barycentric Dynamical Time ("TDB" or T_eph) output was requested. This
+continuous coordinate time is equivalent to the relativistic proper time
+of a clock at rest in a reference frame co-moving with the solar system
+barycenter but outside the system's gravity well. It is the independent
+variable in the solar system relativistic equations of motion.
+
+  TDB runs at a uniform rate of one SI second per second and is independent
+of irregularities in Earth's rotation.
+ 
+CALENDAR SYSTEM
+
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+
+ABERRATIONS AND CORRECTIONS
+
+ Geometric state vectors have NO corrections or aberrations applied.
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/hrzn_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+*******************************************************************************
